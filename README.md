@@ -31,7 +31,7 @@ Refer artifacts/arch folder, "Hyper.drawio" file for the architecture diagram.
 
 🔗 (#) PPT - Refer artifacts/demo for **Hyperpersonalization_BlackPanthers.pptx**
 
-📹 (#) Video - (if applicable)
+📹 (#) Video - https://drive.google.com/file/d/1LF3SKFd_vfEgyRLZfWsIieUU0icoqxkX/view?usp=drive_link
 
 🖼️ **Screenshots:**
 
