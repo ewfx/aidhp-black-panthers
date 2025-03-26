@@ -29,13 +29,11 @@ Refer artifacts/arch folder for "Hyper.drawio"
 
 ## 🎥 Demo
 
-🔗 [PPT](#) Refer artifacts/demo for **Hyperpersonalization_BlackPanthers.pptx**
+🔗 (#) PPT - Refer artifacts/demo for **Hyperpersonalization_BlackPanthers.pptx**
 
-📹 [Video Demo](#) (if applicable)
+📹 (#) Video - (if applicable)
 
 🖼️ **Screenshots:**
-
-![Screenshot 1](link-to-image)
 
 **_Choose Personas:_**
 ![Choose Personas](image.png)
