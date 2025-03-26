@@ -120,7 +120,7 @@ This GenAI-powered banking assistant:
 1. Clone the repository
 
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/ewfx/aidhp-black-panthers.git
    ```
 
 2. Install Python 3.12.9 and make sure pip is available.
