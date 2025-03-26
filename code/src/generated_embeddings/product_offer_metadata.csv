@@ -1,0 +1,181 @@
+type,text
+product,"Represent this banking product for retrieval: {
+  ""Product Name"": ""Platinum Credit Card"",
+  ""Category"": ""Credit Card"",
+  ""Eligibility Criteria"": ""Income > $100K"",
+  ""Benefits"": ""5x travel points, lounge access"",
+  ""Ideal Customer Profile"": ""High-spending professionals"",
+  ""Interest Tags"": ""Travel, Luxury"",
+  ""Reference Doc"": ""https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf""
+}"
+product,"Represent this banking product for retrieval: {
+  ""Product Name"": ""Gold Credit Card"",
+  ""Category"": ""Credit Card"",
+  ""Eligibility Criteria"": ""Income > $50K"",
+  ""Benefits"": ""Cashback on groceries & fuel"",
+  ""Ideal Customer Profile"": ""Mid-income customers"",
+  ""Interest Tags"": ""Daily Expenses, Cashback"",
+  ""Reference Doc"": ""https://www.adobe.com/content/dam/cc/us/en/creative-cloud/photography/discover/sample-photography.pdf""
+}"
+product,"Represent this banking product for retrieval: {
+  ""Product Name"": ""Personal Loan"",
+  ""Category"": ""Loan"",
+  ""Eligibility Criteria"": ""Income > $50K"",
+  ""Benefits"": ""Low-interest rate"",
+  ""Ideal Customer Profile"": ""Mid-income customers"",
+  ""Interest Tags"": ""Home Renovation, Debt Consolidation"",
+  ""Reference Doc"": ""https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-pdf-file.pdf""
+}"
+product,"Represent this banking product for retrieval: {
+  ""Product Name"": ""Home Loan"",
+  ""Category"": ""Loan"",
+  ""Eligibility Criteria"": ""Income > $40K, Credit Score > 700"",
+  ""Benefits"": ""Low EMI, flexible tenure"",
+  ""Ideal Customer Profile"": ""First-time home buyers"",
+  ""Interest Tags"": ""Real Estate, Investment"",
+  ""Reference Doc"": ""https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf""
+}"
+product,"Represent this banking product for retrieval: {
+  ""Product Name"": ""High-Yield Savings"",
+  ""Category"": ""Bank Account"",
+  ""Eligibility Criteria"": ""No minimum balance"",
+  ""Benefits"": ""4% interest rate"",
+  ""Ideal Customer Profile"": ""Savers, Students"",
+  ""Interest Tags"": ""Saving, Budgeting"",
+  ""Reference Doc"": ""https://www.adobe.com/content/dam/cc/us/en/creative-cloud/photography/discover/sample-photography.pdf""
+}"
+product,"Represent this banking product for retrieval: {
+  ""Product Name"": ""Fixed Deposit"",
+  ""Category"": ""Investment"",
+  ""Eligibility Criteria"": ""Minimum $500 deposit"",
+  ""Benefits"": ""5% annual return"",
+  ""Ideal Customer Profile"": ""Conservative investors"",
+  ""Interest Tags"": ""Wealth Preservation"",
+  ""Reference Doc"": ""https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf""
+}"
+product,"Represent this banking product for retrieval: {
+  ""Product Name"": ""Mutual Funds"",
+  ""Category"": ""Investment"",
+  ""Eligibility Criteria"": ""Income > $30K"",
+  ""Benefits"": ""Market-linked returns"",
+  ""Ideal Customer Profile"": ""Moderate-risk investors"",
+  ""Interest Tags"": ""Wealth Growth, Diversification"",
+  ""Reference Doc"": ""https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/1024px-Anonymous_emblem.svg.png""
+}"
+product,"Represent this banking product for retrieval: {
+  ""Product Name"": ""Health Insurance"",
+  ""Category"": ""Insurance"",
+  ""Eligibility Criteria"": ""Age < 60, No pre-existing conditions"",
+  ""Benefits"": ""Covers hospitalization & OPD"",
+  ""Ideal Customer Profile"": ""Families, Working professionals"",
+  ""Interest Tags"": ""Healthcare, Protection"",
+  ""Reference Doc"": ""https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-pdf-file.pdf""
+}"
+product,"Represent this banking product for retrieval: {
+  ""Product Name"": ""Travel Insurance"",
+  ""Category"": ""Insurance"",
+  ""Eligibility Criteria"": ""Frequent travelers"",
+  ""Benefits"": ""Covers medical & trip cancellations"",
+  ""Ideal Customer Profile"": ""Business & Leisure travelers"",
+  ""Interest Tags"": ""Travel, Safety"",
+  ""Reference Doc"": ""https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-pdf-file.pdf""
+}"
+product,"Represent this banking product for retrieval: {
+  ""Product Name"": ""Cyber Security Insurance"",
+  ""Category"": ""Insurance"",
+  ""Eligibility Criteria"": ""Digital banking customers"",
+  ""Benefits"": ""Covers online fraud"",
+  ""Ideal Customer Profile"": ""Frequent online shoppers"",
+  ""Interest Tags"": ""Digital Security"",
+  ""Reference Doc"": ""https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf""
+}"
+offer,"Represent this campaign offer for retrieval: {
+  ""Offer Name"": ""Welcome Bonus"",
+  ""Category"": ""Credit Card"",
+  ""Eligible Customers"": ""New customers"",
+  ""Description"": ""Get 10,000 bonus points on first transaction"",
+  ""Start Date"": ""01-04-2025"",
+  ""End Date"": ""30-06-2025"",
+  ""Reference Doc"": ""https://www.adobe.com/content/dam/cc/us/en/creative-cloud/photography/discover/sample-photography.pdf""
+}"
+offer,"Represent this campaign offer for retrieval: {
+  ""Offer Name"": ""Festive Cashback"",
+  ""Category"": ""Savings Account"",
+  ""Eligible Customers"": ""All customers"",
+  ""Description"": ""5% cashback on online shopping during festive season"",
+  ""Start Date"": ""15-10-2025"",
+  ""End Date"": ""31-10-2025"",
+  ""Reference Doc"": ""https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/1024px-Anonymous_emblem.svg.png""
+}"
+offer,"Represent this campaign offer for retrieval: {
+  ""Offer Name"": ""Travel Discount"",
+  ""Category"": ""Credit Card"",
+  ""Eligible Customers"": ""Frequent travelers"",
+  ""Description"": ""20% discount on flight & hotel bookings"",
+  ""Start Date"": ""01-05-2025"",
+  ""End Date"": ""30-09-2025"",
+  ""Reference Doc"": ""https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-pdf-file.pdf""
+}"
+offer,"Represent this campaign offer for retrieval: {
+  ""Offer Name"": ""Loan Interest Reduction"",
+  ""Category"": ""Personal Loan"",
+  ""Eligible Customers"": ""Customers with good credit score"",
+  ""Description"": ""1% lower interest rate on loans above $10,000"",
+  ""Start Date"": ""01-06-2025"",
+  ""End Date"": ""31-12-2025"",
+  ""Reference Doc"": ""https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf""
+}"
+offer,"Represent this campaign offer for retrieval: {
+  ""Offer Name"": ""Premium Upgrade"",
+  ""Category"": ""Banking Services"",
+  ""Eligible Customers"": ""High-net-worth customers"",
+  ""Description"": ""Free upgrade to priority banking services"",
+  ""Start Date"": ""01-07-2025"",
+  ""End Date"": ""31-12-2025"",
+  ""Reference Doc"": ""https://www.adobe.com/content/dam/cc/us/en/creative-cloud/photography/discover/sample-photography.pdf""
+}"
+offer,"Represent this campaign offer for retrieval: {
+  ""Offer Name"": ""Insurance Bundle Offer"",
+  ""Category"": ""Insurance"",
+  ""Eligible Customers"": ""Existing policyholders"",
+  ""Description"": ""10% discount on purchasing an additional policy"",
+  ""Start Date"": ""01-03-2025"",
+  ""End Date"": ""31-12-2025"",
+  ""Reference Doc"": ""https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-pdf-file.pdf""
+}"
+offer,"Represent this campaign offer for retrieval: {
+  ""Offer Name"": ""E-commerce Cashback"",
+  ""Category"": ""Credit Card"",
+  ""Eligible Customers"": ""Online shoppers"",
+  ""Description"": ""10% cashback on purchases at partner e-commerce sites"",
+  ""Start Date"": ""01-08-2025"",
+  ""End Date"": ""31-12-2025"",
+  ""Reference Doc"": ""https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/1024px-Anonymous_emblem.svg.png""
+}"
+offer,"Represent this campaign offer for retrieval: {
+  ""Offer Name"": ""Loyalty Reward Boost"",
+  ""Category"": ""Credit Card"",
+  ""Eligible Customers"": ""Long-term customers"",
+  ""Description"": ""Double reward points for customers with >2 years tenure"",
+  ""Start Date"": ""01-09-2025"",
+  ""End Date"": ""31-12-2025"",
+  ""Reference Doc"": ""https://www.adobe.com/content/dam/cc/us/en/creative-cloud/photography/discover/sample-photography.pdf""
+}"
+offer,"Represent this campaign offer for retrieval: {
+  ""Offer Name"": ""Retirement Plan Bonus"",
+  ""Category"": ""Investment"",
+  ""Eligible Customers"": ""Senior citizens"",
+  ""Description"": ""Bonus interest on retirement savings plans"",
+  ""Start Date"": ""01-06-2025"",
+  ""End Date"": ""31-12-2025"",
+  ""Reference Doc"": ""https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf""
+}"
+offer,"Represent this campaign offer for retrieval: {
+  ""Offer Name"": ""Exclusive Dining Deals"",
+  ""Category"": ""Credit Card"",
+  ""Eligible Customers"": ""Food lovers"",
+  ""Description"": ""50% discount at select restaurants every weekend"",
+  ""Start Date"": ""01-04-2025"",
+  ""End Date"": ""30-09-2025"",
+  ""Reference Doc"": ""https://www.adobe.com/content/dam/cc/us/en/creative-cloud/photography/discover/sample-photography.pdf""
+}"
