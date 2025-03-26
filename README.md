@@ -163,4 +163,4 @@ This GenAI-powered banking assistant:
 - **Basha Sheik** - [GitHub](#) | [LinkedIn](#)
 - **Srikanth Belide** - [GitHub](#) | [LinkedIn](#)
 - **Manju Sri Male** - [GitHub](#) | [LinkedIn](#)
-- **Saravana Govindraj Prabu** - [GitHub](#) | [LinkedIn](#)
+- **Saravana Prabu Govindaraj** - [GitHub](#) | [LinkedIn](#)
