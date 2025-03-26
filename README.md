@@ -24,7 +24,7 @@ Our system allows users to **interact using both text (keyboard)** and **voice (
 
 ## Architecture
 
-Refer artifacts/arch folder for "Hyper.drawio"
+Refer artifacts/arch folder, "Hyper.drawio" file for the architecture diagram.
 ![alt text](image-3.png)
 
 ## 🎥 Demo
@@ -149,7 +149,7 @@ This GenAI-powered banking assistant:
 - 🔹 Python, Streamlit, FAISS, Pandas, SentenceTransformers
 - 🔹 Gemini Flash 2.0 (via Google Generative AI API)
 - 🔹 Whisper/Browser Speech-to-Text for voice input
-- 🔹 dotenv, openpyxl, json, matplotlib
+- 🔹 dotenv, openpyxl, json, faker
 
 ## Voice + Text Input Demo
 
